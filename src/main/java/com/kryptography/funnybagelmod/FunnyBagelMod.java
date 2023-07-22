@@ -22,7 +22,6 @@ public class FunnyBagelMod {
         EntityInit.ENTITIES.register(bus);
         FunnyBagelSound.SOUND_EVENT.register(bus);
 
-
         bus.addListener(this::registerRenderers);
     }
 
