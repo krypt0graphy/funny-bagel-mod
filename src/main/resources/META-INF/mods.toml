@@ -6,6 +6,8 @@ modId="funnybagelmod" #mandatory
 version="1.0.0-1.19.2" #mandatory
 displayName="Funny Bagel Mod" #mandatory
 logoFile="logo.png" #optional
+issueTrackerURL="https://github.com/krypt0graphy/funny-bagel-mod/issues" #optional
+
 
 authors="Krypto, Evo" #optional
 description='''Adds bagels to minecraft.'''
