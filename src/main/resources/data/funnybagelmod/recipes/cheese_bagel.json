@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "funnybagelmod:bagel"
+    },
+    {
+      "item": "funnybagelmod:bagel"
+    },
+    {
+      "item": "funnybagelmod:bagel"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "result": {
+    "item": "funnybagelmod:cheese_bagel",
+    "count": 3
+  }
+}

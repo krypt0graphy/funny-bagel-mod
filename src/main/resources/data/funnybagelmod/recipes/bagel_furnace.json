@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "funnybagelmod:bagel_dough"
+  },
+  "result": "funnybagelmod:bagel",
+  "experience": 0.35,
+  "cookingtime": 200
+}

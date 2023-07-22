@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "funnybagelmod:bagel_block"
+    }
+  ],
+  "result": {
+    "item": "funnybagelmod:bagel",
+    "count": 9
+  }
+}

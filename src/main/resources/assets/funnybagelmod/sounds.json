@@ -1,0 +1,14 @@
+{
+  "bonk": {
+    "subtitle": "sounds.funnybagelmod.bonk",
+    "sounds": [
+      "funnybagelmod:bonk"
+    ]
+  },
+  "throw": {
+    "subtitle": "sounds.funnybagelmod.throw",
+    "sounds": [
+      "funnybagelmod:throw"
+    ]
+  }
+}
